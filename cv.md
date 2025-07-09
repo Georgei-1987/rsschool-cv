@@ -7,6 +7,10 @@
 * **Telegram:** @Georgei_Novozenko
 * **GitHub:** Georgei-1987
 ## Briefly about me
+The highest goal of my life is to glorify God and to rejoice in Him forever.  
+Now I work at Gazprom transgaz Belarus as a communications electrician.  
+But this is not an occupation that you want to devote your whole life to.  
+This is not the first time I've started programming, and I'm still trying to figure out if I need it.
 ## Skills
 ## Code example
 ## Work experience
