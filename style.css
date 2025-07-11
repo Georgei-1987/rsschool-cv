@@ -1,0 +1,27 @@
+/*  
+  Имя файла: style.css
+  Описание:  Базовый шаблон для CSS стилей.
+  Дата: 11 июля 2025
+  Локация: Гомель
+*/
+
+/* Общие стили для всех элементов */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Стили для body */
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+/* Пример стиля для заголовка */
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
