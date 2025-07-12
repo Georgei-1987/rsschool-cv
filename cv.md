@@ -1,5 +1,5 @@
 # Heorhi Navazenka
-![Heorhi Navazenka](https://github.com/Georgei-1987/rsschool-cv/raw/gh-pages/My_photo.jpg "Hello, dear friend :-)")
+![Heorhi Navazenka](https://github.com/Georgei-1987/rsschool-cv/raw/gh-pages/My_photo_md.jpg "Hello, dear friend :-)")
 ## Contacts
 * **Location:** Gomel, Belarus
 * **Phone:** +375-44-700-39-46
