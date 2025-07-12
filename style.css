@@ -7,21 +7,143 @@
 
 /* Общие стили для всех элементов */
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-/* Стили для body */
 body {
-  font-family: sans-serif;
-  line-height: 1.6;
-  background-color: #f4f4f4;
-  color: #333;
+    font-family: sans-serif;
+    line-height: 1.6;
+    color: #333;
+    
+    background-color: #f4f4f4;    
+}
+  
+h1 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
-/* Пример стиля для заголовка */
-h1 {
-  text-align: center;
-  margin-bottom: 20px;
+h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    text-align: center;    
+}
+
+.about_me_container {
+    margin-left: auto;
+    margin-right: auto;  
+
+    text-align: center;
+}
+
+.code {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+
+    text-align: left;    
+}
+
+.code_example_container {
+    margin-left: auto;
+    margin-right: auto;  
+
+    text-align: center;
+}
+
+.code_wrapper {
+    width: 190px;
+    margin-left: auto;
+    margin-right: auto;
+
+    text-align: left;    
+}
+
+.contacts {
+    list-style: none;
+}
+
+.contacts_container {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto; 
+
+    text-align: left;    
+}
+
+.footer {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+    text-align: center;
+}
+
+.footer li {
+    display: inline-block;
+    margin-right: 100px;
+}
+
+.education_container {
+    margin-left: auto;
+    margin-right: auto;
+
+    text-align: center;
+}
+
+.eng_level_container {
+    margin-left: auto;
+    margin-right: auto;
+
+    text-align: center;
+}
+
+.image_container {
+    text-align: center;
+}
+
+.main_container {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menu_container {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.page_navigation {
+    list-style: none;
+}
+
+.page_navigation li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.page_navigation li a {
+    text-decoration: none;
+}
+
+.skills_container {
+    margin-left: auto;
+    margin-right: auto;
+
+    text-align: center;
+}
+
+.skills_container li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.work_experience_container {
+    margin-left: auto;
+    margin-right: auto;
+    
+    text-align: center;
 }
