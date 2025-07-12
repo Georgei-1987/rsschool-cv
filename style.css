@@ -15,8 +15,9 @@
 body {
     font-family: sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
     color: #333;
+    
+    background-color: #f4f4f4;    
 }
   
 h1 {
@@ -26,35 +27,40 @@ h1 {
 }
 
 h2 {
-    text-align: center;
     margin-top: 10px;
     margin-bottom: 10px;
+
+    text-align: center;    
 }
 
 .about_me_container {
     margin-left: auto;
     margin-right: auto;  
+
     text-align: center;
 }
 
 .code {
+    width: 200px;
     margin-left: auto;
     margin-right: auto;
-    text-align: left;
-    width: 200px;
+
+    text-align: left;    
 }
 
 .code_example_container {
     margin-left: auto;
     margin-right: auto;  
+
     text-align: center;
 }
 
 .code_wrapper {
+    width: 190px;
     margin-left: auto;
     margin-right: auto;
-    text-align: left;
-    width: 190px;
+
+    text-align: left;    
 }
 
 .contacts {
@@ -62,16 +68,18 @@ h2 {
 }
 
 .contacts_container {
-    margin-left: auto;
-    margin-right: auto;    
-    text-align: left;
     width: 250px;
+    margin-left: auto;
+    margin-right: auto; 
+
+    text-align: left;    
 }
 
 .footer {
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
+
     text-align: center;
 }
 
@@ -83,12 +91,14 @@ h2 {
 .education_container {
     margin-left: auto;
     margin-right: auto;
+
     text-align: center;
 }
 
 .eng_level_container {
     margin-left: auto;
     margin-right: auto;
+
     text-align: center;
 }
 
@@ -122,6 +132,7 @@ h2 {
 .skills_container {
     margin-left: auto;
     margin-right: auto;
+
     text-align: center;
 }
 
@@ -133,5 +144,6 @@ h2 {
 .work_experience_container {
     margin-left: auto;
     margin-right: auto;
+    
     text-align: center;
 }
