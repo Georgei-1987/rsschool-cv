@@ -25,6 +25,6 @@ return a*b;
 I work at an insurance agent, an electrician, a mason, an electrical fitter.
 ## Education
 * **University:** Belarusian State University of Transport, Electrical Engineer.
-* **Courses:** HTML Academy
+* **Courses:** HTML Academy.
 ## English level
 **A2**
