@@ -88,13 +88,19 @@ h2 {
 }
 
 .education_container {
+    width: 600px;
     margin-left: auto;
     margin-right: auto;
 
-    text-align: center;
+    text-align: left;
+}
+
+.education_container li {
+    list-style: none;
 }
 
 .educational_project_container {
+    width: 270px;
     margin-left: auto;
     margin-right: auto;
 
